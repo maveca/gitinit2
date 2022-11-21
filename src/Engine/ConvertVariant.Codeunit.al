@@ -23,6 +23,7 @@ codeunit 50005 "Convert Variant"
     procedure Set(NewVariant: Variant)
     begin
         VariantValue := NewVariant;
+        VariantValue := '123123';
     end;
 
     /// <summary>

@@ -22,7 +22,7 @@ page 50000 "Calc Worksheet"
                     field(InputControl; Input)
                     {
                         ApplicationArea = All;
-                        ToolTip = 'Specifies the value of the Input field.';
+                        ToolTip = 'Specifies the value of the Input field 123';
                         Caption = 'Input';
                         MultiLine = true;
                     }
