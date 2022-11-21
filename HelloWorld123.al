@@ -13,7 +13,7 @@ pageextension 50100 CustomerListExt extends "Customer List"
 
     trigger OnAfterGetRecord();
     begin
-        Message('Changed.');
+        Message('Changed. 123');
         // This is my new change.
     end;
 }
