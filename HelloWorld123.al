@@ -6,7 +6,7 @@ pageextension 50100 CustomerListExt extends "Customer List"
 {
     trigger OnOpenPage();
     begin
-        Message('App published: Test 323232');
+        Message('App published: Test  4234234234324');
         // This is my new change.
         // Change from remote.
     end;
