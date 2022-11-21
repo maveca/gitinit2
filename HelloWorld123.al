@@ -6,6 +6,10 @@ pageextension 50100 CustomerListExt extends "Customer List"
 {
     trigger OnOpenPage();
     begin
+<<<<<<< HEAD:HelloWorld123.al
         Message('App published: Hello world');
+=======
+        Message('App published: Hello world - 123');
+>>>>>>> parent of 8cb8a32 (Add message to HelloWorld):HelloWorld.al
     end;
 }
