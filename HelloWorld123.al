@@ -14,5 +14,6 @@ pageextension 50100 CustomerListExt extends "Customer List"
     begin
         Message('Changed.');
         // This is my new change.
+        // Change from remote.
     end;
 }
