@@ -3,7 +3,7 @@
 /// </summary>
 page 50000 "Calc Worksheet"
 {
-    Caption = 'Calc Worksheet 123';
+    Caption = 'Calc Worksheet';
     PageType = Card;
     UsageCategory = Tasks;
     ApplicationArea = All;

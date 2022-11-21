@@ -6,14 +6,14 @@ pageextension 50100 CustomerListExt extends "Customer List"
 {
     trigger OnOpenPage();
     begin
-        Message('App published: Test');
+        Message('App published: Test 323232');
         // This is my new change.
         // Change from remote.
     end;
 
     trigger OnAfterGetRecord();
     begin
-        Message('Changed. 123');
+        Message('Changed.');
         // This is my new change.
     end;
 }
